@@ -4,7 +4,7 @@
   <p align="center">
     Eu sou <strong>Lucas Eduardo</strong>.
     <br><br>
-    Tabalho com desenvolvimento web e mobile!
+    Trabalho com desenvolvimento web e mobile!
     <br><br>
     Sou apaixonado pelas melhores tecnologias e sempre busco me aprofundar nelas.
     <br><br>
